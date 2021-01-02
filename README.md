@@ -10,11 +10,11 @@ This is a music app where one is able to stream hear their favorite songs and a 
 ## Setup and Installation  
 To get the project .......  
   
-##### Cloning the repository:  
+#### Cloning the repository:  
  ```bash 
  https://github.com/Joseph-Odhiambo/Trace-music.git
 ```
-##### Navigate into the folder and install requirements  
+#### Navigate into the folder and install requirements  
  ```bash 
 cd Trace-music  
 ```
